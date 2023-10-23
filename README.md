@@ -1,4 +1,7 @@
 # hello-world
+readme-edits
+
+
 // Kiefer Kokhavi
 // Description: Hello World in C++
 //============================================================
@@ -39,3 +42,4 @@ int hello2Function(string name2)
 cout << "hello World " << name2 << endl;
 return 0;
 }
+main
